@@ -8,25 +8,44 @@ Press `Ctrl + Shift + M` to open a formatted preview on the right.
 
 Write two sentences about yourself, each in a different paragraph.
 
-<!--- Write your answer here. --->
+Hello, my name is Cara.
+
+I am 19 years old.
 
 ## Headers
 
 Make a 3rd level header with your name:
 
-<!--- Write your answer here. --->
+### Cara Smith
 
 ## Emphasis
 
 Write 4 of your favorite words using each type of emphasis:
 
+Euphoric
+Colloquial
+Alleluia
+Discombobulated
 <!--- Write your answer here. --->
 
 ## Lists
 
 Make an ordered list of 3 things you hope to achieve this semester, and elaborate on them with sub items. Then, make an unordered list of 3 classes that you're taking this semester:
 
-<!--- Write your answer here. --->
+1. Not fail my differential equations prelim
+   1. Do my homework by Monday
+   2. Practice problems
+   3. TA's handouts
+   4. Notes
+   5. Go over HW's
+   6. Read incredibly boring textbook
+2. Get some kind of an internship for next year
+   1. Handshake
+   2. Apply online
+   3. Check Deadlines
+3. Calm down a bit, lol
+   1. Stop worrying about everything
+   2. Do my work actually on time
 
 ## Links
 
@@ -37,7 +56,7 @@ Write a sentence describing your major, and insert a link to your major's depart
 ## Images
 
 Insert the Cornell seal image with:
-  1. A relative file path(`/Images/Cornell_University_seal.png`) 
+  1. A relative file path(`/Images/Cornell_University_seal.png`)
   2. A URL (https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png)
 
 <!--- Write your answer here. --->
