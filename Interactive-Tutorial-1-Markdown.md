@@ -22,10 +22,10 @@ Make a 3rd level header with your name:
 
 Write 4 of your favorite words using each type of emphasis:
 
-Euphoric
-Colloquial
-Alleluia
-Discombobulated
+*Euphoric*
+**Colloquial**
+**_Alleluia_**
+~~Discombobulated~~
 <!--- Write your answer here. --->
 
 ## Lists
@@ -51,13 +51,16 @@ Make an ordered list of 3 things you hope to achieve this semester, and elaborat
 
 Write a sentence describing your major, and insert a link to your major's department website:
 
-<!--- Write your answer here. --->
+Biological engineering is a really [confusing](http://beadvised.bee.cornell.edu/) major
 
 ## Images
 
 Insert the Cornell seal image with:
   1. A relative file path(`/Images/Cornell_University_seal.png`)
-  2. A URL (https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png)
+
+![alt  text][logo]
+[logo]:https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png  "Cornell"
+
 
 <!--- Write your answer here. --->
 
@@ -81,14 +84,17 @@ def foo():
 
 Create a table listing your 3 favorite animals, books, and places on campus. Use a different alignment for each column.
 
-<!--- Write your answer here. --->
+<!--- Write your answer here. --->to Kill a Mockingbird, An Abundance of Katherines, and Harry Potter
 
+Seals, Red Pandas and Sugar Gliders
+
+Big Red Barn, PSB and the A.D. White Libary
 
 ## Blockquotes
 
 Write your favorite quote. It must be attributed to Albert Einstein.
 
-<!-- Write your answer here. -->
+"Pick me. Choose me. Love me." -Albert Einstein
 
 ## Horizontal Rules
 
